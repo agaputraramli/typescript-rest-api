@@ -1,0 +1,24 @@
+2025-05-07T08:22:28.453Z [info]: Start Fetch External
+2025-05-07T08:22:28.552Z [info]: Response: {
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+2025-05-07T08:22:30.224Z [info]: Fetching top customer by order count
+2025-05-07T08:22:31.611Z [info]: User logged in successfully
+2025-05-07T08:22:34.598Z [info]: Creating order for customer: 1
+2025-05-07T08:26:07.433Z [info]: Fetching top customer by order count
+2025-05-07T08:26:16.703Z [info]: Creating order for customer: 3
+2025-05-07T08:26:20.607Z [info]: Creating order for customer: 3
+2025-05-07T08:26:21.377Z [info]: Creating order for customer: 3
+2025-05-07T08:26:22.135Z [info]: Creating order for customer: 3
+2025-05-07T08:26:22.816Z [info]: Creating order for customer: 3
+2025-05-07T08:26:23.450Z [info]: Creating order for customer: 3
+2025-05-07T08:26:26.150Z [info]: Creating order for customer: 3
+2025-05-07T08:26:26.795Z [info]: Creating order for customer: 3
+2025-05-07T08:26:27.490Z [info]: Creating order for customer: 3
+2025-05-07T08:26:32.281Z [info]: Fetching top customer by order count
+2025-05-07T08:26:38.547Z [info]: User logged in successfully
+2025-05-07T08:26:45.885Z [info]: User logged in successfully
+2025-05-07T08:28:06.662Z [info]: User logged in successfully
